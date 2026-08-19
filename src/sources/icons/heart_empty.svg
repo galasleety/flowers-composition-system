@@ -1,0 +1,16 @@
+);
+    rightColLayout->addWidget(m_userIconLabel);
+    rightColLayout->addSpacing(8);
+
+    m_userInlineLabel = new QLabel(QStringLiteral("%1").arg(userName), rightColumn);
+    m_userInlineLabel->setObjectName(QStringLiteral("userInlineLabel"));
+    m_userInlineLabel->setAlignment(Qt::AlignRight | Qt::AlignVCenter);
+    m_userInlineLabel->setFont(userFont);
+    m_userInlineLabel->setStyleSheet("QLabel#userInlineLabel { color: #000000; font-style: italic; letter-spacing: 0.6px; }");
+    m_userInlineLabel->setFixedHeight(20);
+    rightColLayout->addWidget(m_userInlineLabel);
+
+    menuLayout->addWidget(leftSpacer, 0, Qt::AlignLeft);
+    menuLayout->addStretch(1);
+    menuLayout->addWidget(buttonContainer);
+    menu
