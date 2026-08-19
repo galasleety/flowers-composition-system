@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sources/first2.jpg</file>
+    </qresource>
+    <qresource prefix="/flowers"/>
+    <qresource prefix="/accessories"/>
+    <qresource prefix="/packages"/>
+    <qresource prefix="/styles"/>
+    <qresource prefix="/">
+        <file>styles/main_style.txt</file>
+        <file>sources/icons/filler.svg</file>
+        <file>sources/icons/heart_full.svg</file>
+        <file>sources/icons/menu_package.svg</file>
+        <file>sources/icons/menu_rules.svg</file>
+        <file>sources/icons/menu_season.svg</file>
+        <file>sources/icons/strelka.svg</file>
+        <file>sources/music/sound.wav</file>
+        <file>sources/pictures/craft_pered.png</file>
+        <file>sources/pictures/gortenziya_blue.jfif</file>
+        <file>sources/pictures/gortenziya_white.png</file>
+        <file>sources/pictures/gypsophila_white.png</file>
+        <file>sources/pictures/korobka.png</file>
+        <file>sources/pictures/korobla_pered.png</file>
+        <file>sources/pictures/pink_bant.png</file>
+        <file>sources/pictures/pion_pink.png</file>
+        <file>sources/pictures/pion_red.jpg</file>
+        <file>sources/pictures/ranunculus_orange.png</file>
+        <file>sources/pictures/ranunculus_white.jpg</file>
+        <file>sources/pictures/red_bant.png</file>
+        <file>sources/pictures/rosa_ekvador_pink.jpg</file>
+        <file>sources/pictures/rosa_ekvador_red.jpg</file>
+        <file>sources/pictures/rosa_ekvador_white.jpg</file>
+        <file>sources/pictures/rozovaya_plenka.jpg</file>
+        <file>sources/pictures/rozovaya_plenka_pered.png</file>
+        <file>sources/pictures/tulip_orange.jpg</file>
+        <file>sources/pictures/tulip_red.jpg</file>
+        <file>sources/pictures/vstavka.png</file>
+        <file>sources/pictures/white_bant.png</file>
+        <file>sources/pictures/craft.png</file>
+        <file>sources/pictures/evkalipt.jpg</file>
+        <file>sources/pictures/green_plenka.png</file>
+        <file>sources/pictures/green_plenka_pered.png</file>
+        <file>sources/pictures/metiola_persikova.png</file>
+        <file>sources/icons/admin.svg</file>
+        <file>sources/icons/user.svg</file>
+        <file>sources/icons/free-icon-favorite-15397171.svg</file>
+        <file>sources/icons/free-icon-trash-can-542673.svg</file>
+        <file>sources/icons/free-icon-modify-6115910.svg</file>
+    </qresource>
+</RCC>
